@@ -9,9 +9,9 @@ We have collected our data from several data sources including bangla newspapers
 Distribution: 
 
 ```
-Bangla Newspapers (BBC News, Prothom Alo) - 40500
-Bangla Wikipedia - 13800
-Bangla Story Books - 28500
+Bangla Newspapers (BBC News, Prothom Alo) - 40500 tokens
+Bangla Wikipedia - 13800 tokens
+Bangla Story Books - 28500 tokens
 ```
 Our original dataset can be found here and also in kaggle. 
 
