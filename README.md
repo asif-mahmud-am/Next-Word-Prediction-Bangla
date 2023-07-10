@@ -23,7 +23,7 @@ We have tokenized our dataset and created 5 datasets out of them. We have used n
 
 The tokenized datasets are also available in this repo and kaggle. 
 
-Link to kaggle: [tokenized-datasets] (https://www.kaggle.com/datasets/asifmahmudcste/next-word-prediction-bangla) 
+Link to kaggle: [tokenized-datasets](https://www.kaggle.com/datasets/asifmahmudcste/next-word-prediction-bangla) 
 
 ## Models 
 
